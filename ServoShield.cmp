@@ -1,0 +1,381 @@
+Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Wed 08 Oct 2014 16:16:17 AEDT
+
+BeginCmp
+TimeStamp = /53EFE9AE;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED3090;
+Reference = C2;
+ValeurCmp = 68uF 25V;
+IdModule  = FT:CAP_ELECTRO_SMT_D;
+EndCmp
+
+BeginCmp
+TimeStamp = /541939BE;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = FT:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71F2;
+Reference = C4;
+ValeurCmp = 47uF 25V;
+IdModule  = FT:CAP_ELECTRO_SMT_D;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71DC;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5434EA42;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = FT:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71E3;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF7241;
+Reference = D1;
+ValeurCmp = B540C;
+IdModule  = FT:SMC-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC6433;
+Reference = JP1;
+ValeurCmp = M08;
+IdModule  = FT:1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC642C;
+Reference = JP2;
+ValeurCmp = M06;
+IdModule  = FT:1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC6425;
+Reference = JP3;
+ValeurCmp = M10;
+IdModule  = FT:1X10;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC641E;
+Reference = JP4;
+ValeurCmp = M08;
+IdModule  = FT:1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EBF176;
+Reference = JP5;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71C1;
+Reference = L1;
+ValeurCmp = 47uH 2A;
+IdModule  = FT:SRU1038_IND;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E3497F;
+Reference = P1;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EED109;
+Reference = P2;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EED564;
+Reference = P3;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EED583;
+Reference = P4;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEE092;
+Reference = P5;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEE0B1;
+Reference = P6;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEE0D0;
+Reference = P7;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEE0EF;
+Reference = P8;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEDD6;
+Reference = P9;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEDF5;
+Reference = P10;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE90;
+Reference = P11;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE14;
+Reference = P12;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE33;
+Reference = P13;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEEAF;
+Reference = P14;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE52;
+Reference = P15;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE71;
+Reference = P16;
+ValeurCmp = M03;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E3898B;
+Reference = Q1;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E38B40;
+Reference = Q2;
+ValeurCmp = RJU003N03;
+IdModule  = FT:SOT323_MOSFET;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E35BB6;
+Reference = R1;
+ValeurCmp = 220R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E33D7D;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEE098;
+Reference = R3;
+ValeurCmp = 220R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEDDC;
+Reference = R4;
+ValeurCmp = 220R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ECE960;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EB8EB8;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EEEE39;
+Reference = R7;
+ValeurCmp = 220R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71C8;
+Reference = R8;
+ValeurCmp = 10.2K 1%;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /541987A8;
+Reference = R9;
+ValeurCmp = 14k;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EF71CF;
+Reference = R12;
+ValeurCmp = 2.7K 1%;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC6417;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED320D;
+Reference = SJ1;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED3B24;
+Reference = SJ2;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAEA7E;
+Reference = SJ3;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAEA84;
+Reference = SJ4;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAEA8A;
+Reference = SJ5;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EAEA90;
+Reference = SJ6;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ED3B67;
+Reference = SJ7;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E345C7;
+Reference = SJ8;
+ValeurCmp = SJ;
+IdModule  = FT:SJ_OPEN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC5F21;
+Reference = SW1;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:TACTILE_SWITCH_SMD_2PIN_TINY;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E31EAF;
+Reference = U1;
+ValeurCmp = PCA9685;
+IdModule  = FT:SSOP28;
+EndCmp
+
+BeginCmp
+TimeStamp = /54196CB3;
+Reference = U2;
+ValeurCmp = XL2009;
+IdModule  = FT:SO08;
+EndCmp
+
+EndListe
