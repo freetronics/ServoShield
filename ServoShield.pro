@@ -1,4 +1,4 @@
-update=Thu 14 Aug 2014 16:22:43 EST
+update=Tue 21 Oct 2014 14:14:52 AEDT
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -60,8 +60,8 @@ LastNetListRead=
 UseCmpFile=1
 PadDrill=0
 PadDrillOvalY=0
-PadSizeH=1.8
-PadSizeV=3.6
+PadSizeH=2.45
+PadSizeV=2.8
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
@@ -72,4 +72,4 @@ SolderMaskClearance=0
 SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
-ModuleOutlineThickness=0.15
+ModuleOutlineThickness=0.09999999999999999
