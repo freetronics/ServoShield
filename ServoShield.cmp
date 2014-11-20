@@ -1,23 +1,23 @@
-Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Tue 21 Oct 2014 15:19:06 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Wed 22 Oct 2014 09:01:22 AEDT
 
 BeginCmp
 TimeStamp = /53EFE9AE;
 Reference = C1;
-ValeurCmp = 10uF;
+ValeurCmp = 10uF 10V;
 IdModule  = FT:1210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53ED3090;
 Reference = C2;
-ValeurCmp = 68uF 25V;
+ValeurCmp = 68uF 10V;
 IdModule  = FT:CAP_ELECTRO_SMT_D;
 EndCmp
 
 BeginCmp
 TimeStamp = /541939BE;
 Reference = C3;
-ValeurCmp = 1uF;
+ValeurCmp = 1uF 25V;
 IdModule  = FT:SM0603_Capa;
 EndCmp
 
@@ -31,7 +31,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53EF71DC;
 Reference = C5;
-ValeurCmp = 10uF;
+ValeurCmp = 10uF 10V;
 IdModule  = FT:1210;
 EndCmp
 
@@ -45,7 +45,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53EF71E3;
 Reference = C7;
-ValeurCmp = 1uF;
+ValeurCmp = 1uF 25V;
 IdModule  = FT:SM0603_Capa;
 EndCmp
 
