@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-07-25 BZR 5027)-product   date = Wed 22 Oct 2014 09:01:22 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Tue 25 Nov 2014 10:10:58 AEDT
 
 BeginCmp
 TimeStamp = /53EFE9AE;
@@ -52,7 +52,7 @@ EndCmp
 BeginCmp
 TimeStamp = /53EF7241;
 Reference = D1;
-ValeurCmp = B540C;
+ValeurCmp = B340 40V 3A;
 IdModule  = FT:SMC-DIODE;
 EndCmp
 
@@ -96,6 +96,13 @@ TimeStamp = /53EF71C1;
 Reference = L1;
 ValeurCmp = 47uH 2A;
 IdModule  = FT:CDRH125;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473CA02;
+Reference = LED1;
+ValeurCmp = LED;
+IdModule  = FT:LED-0603;
 EndCmp
 
 BeginCmp
@@ -288,6 +295,13 @@ IdModule  = FT:0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /5473C8E6;
+Reference = R10;
+ValeurCmp = 1K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /53EF71CF;
 Reference = R12;
 ValeurCmp = 2.7K 1%;
@@ -368,7 +382,7 @@ BeginCmp
 TimeStamp = /53E31EAF;
 Reference = U1;
 ValeurCmp = PCA9685;
-IdModule  = FT:SSOP28;
+IdModule  = FT:SSOP28-4.4MM;
 EndCmp
 
 BeginCmp
