@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Tue 25 Nov 2014 10:10:58 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Tue 02 Dec 2014 10:20:36 AEDT
 
 BeginCmp
 TimeStamp = /53EFE9AE;
@@ -11,21 +11,21 @@ BeginCmp
 TimeStamp = /53ED3090;
 Reference = C2;
 ValeurCmp = 68uF 10V;
-IdModule  = FT:CAP_ELECTRO_SMT_D;
+IdModule  = FT:CAP_ELECTRO_SMD_6.6mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /541939BE;
 Reference = C3;
 ValeurCmp = 1uF 25V;
-IdModule  = FT:SM0603_Capa;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EF71F2;
 Reference = C4;
 ValeurCmp = 47uF 25V;
-IdModule  = FT:CAP_ELECTRO_SMT_D;
+IdModule  = FT:CAP_ELECTRO_SMD_6.6mm;
 EndCmp
 
 BeginCmp
@@ -39,21 +39,21 @@ BeginCmp
 TimeStamp = /5434EA42;
 Reference = C6;
 ValeurCmp = 100nF;
-IdModule  = FT:SM0603_Capa;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EF71E3;
 Reference = C7;
 ValeurCmp = 1uF 25V;
-IdModule  = FT:SM0603_Capa;
+IdModule  = FT:0603_CAP;
 EndCmp
 
 BeginCmp
 TimeStamp = /53EF7241;
 Reference = D1;
 ValeurCmp = B340 40V 3A;
-IdModule  = FT:SMC-DIODE;
+IdModule  = FT:DIODE_SMC;
 EndCmp
 
 BeginCmp
@@ -95,7 +95,7 @@ BeginCmp
 TimeStamp = /53EF71C1;
 Reference = L1;
 ValeurCmp = 47uH 2A;
-IdModule  = FT:CDRH125;
+IdModule  = FT:IND_CDRH125;
 EndCmp
 
 BeginCmp
@@ -221,14 +221,14 @@ BeginCmp
 TimeStamp = /53E3898B;
 Reference = Q1;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
 TimeStamp = /53E38B40;
 Reference = Q2;
 ValeurCmp = RJU003N03;
-IdModule  = FT:SOT323_MOSFET;
+IdModule  = FT:SOT323_FET;
 EndCmp
 
 BeginCmp
@@ -375,21 +375,21 @@ BeginCmp
 TimeStamp = /53EC5F21;
 Reference = SW1;
 ValeurCmp = SW_PUSHBUTTON;
-IdModule  = FT:TACTILE_SWITCH_SMD_2PIN_TINY;
+IdModule  = FT:SW_PUSHBUTTON_TINY_2PIN;
 EndCmp
 
 BeginCmp
 TimeStamp = /53E31EAF;
 Reference = U1;
 ValeurCmp = PCA9685;
-IdModule  = FT:SSOP28-4.4MM;
+IdModule  = FT:SSOP28_4mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /54196CB3;
 Reference = U2;
 ValeurCmp = XL2009;
-IdModule  = FT:SO08;
+IdModule  = FT:SO08_4mm;
 EndCmp
 
 EndListe

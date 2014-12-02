@@ -1,6 +1,6 @@
-update=Tue 21 Oct 2014 15:36:56 AEDT
+update=Tue 02 Dec 2014 10:23:14 AEDT
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -30,19 +30,9 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.09999999999999999
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
 LibDir=
-NetFmtName=PcbnewAdvanced
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
-LibName1=library/freetronics_kicad_sch_lib
+LibName1=library/freetronics_schematic
 LibName2=power
 LibName3=device
 LibName4=transistors
